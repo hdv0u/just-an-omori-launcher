@@ -1,6 +1,6 @@
 # Just an OMORI Launcher
 
-A lightweight launcher that replaces the original batch file used to start OMORI.
+A lightweight launcher that replaces the original batch file used to start OMORI. Maybe useful
 
 ## Features
 
